@@ -1,0 +1,12 @@
+Subject: [VOTAI][TEST] Votai Test.
+Newsgroup: test
+
+Bonjour,
+
+Body message.
+
+Test-ment,
+
+-- 
+Votai Test
+"Test. 2023"
